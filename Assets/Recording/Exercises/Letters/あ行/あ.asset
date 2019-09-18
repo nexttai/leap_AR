@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fadd15cb22a4db54eb194e33f0766aad, type: 3}
+  m_Name: "\u3042"
+  m_EditorClassIdentifier: 
+  exerciseName: "\u3042"
+  teacherFrames: []
+  recording: {fileID: 4900000, guid: 33c5cc99b18dae54294d43132bf5f388, type: 3}
+  score: 1
+  FontObject: {fileID: 1110563607436818, guid: f9a08a8d9e3918f40bcf233f19bd0ce8, type: 3}
+  audio: {fileID: 0}
+  audioClip: {fileID: 8300000, guid: ed39d8ed25998f04488f5f21d9755a6d, type: 3}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf089892d61b5fd44af555d31a2252f9, type: 3}
+  m_Name: "\u3055\u884C"
+  m_EditorClassIdentifier: 
+  levelName: 
+  image: {fileID: 0}
+  exercises:
+  - {fileID: 11400000, guid: 374d117251e156a43ba47212f17a6e5f, type: 2}
+  - {fileID: 11400000, guid: 662f3cb2903128f4e86cd063ad70cbda, type: 2}
+  - {fileID: 11400000, guid: 0581ae6af92d75f408ea351793f7de14, type: 2}
+  - {fileID: 11400000, guid: edd45f36fa537a64db3a7dbdbb8bfea4, type: 2}
+  - {fileID: 11400000, guid: 8eb0baa3dc0dff74f9a39c105f01b900, type: 2}
+  score: 0
+  unlocks: []
